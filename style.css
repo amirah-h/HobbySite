@@ -1,0 +1,77 @@
+body{
+
+background-image: url(gold\ red\ paper);
+    background-position: right bottom;
+    background-repeat: repeat;
+    padding: 15px;
+}
+
+h1{
+color:black;
+text-align:center;
+border-style:solid;
+font-size: 4rem;
+color:white;
+}
+
+h2 {
+    text-align: center;
+    border-radius: 1cm;
+    color:white;
+}
+
+h3{
+    text-align: center;
+    color:white;
+}
+
+p{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color:white;
+text-align: center;
+}
+
+ul{
+    color:white;
+    text-align: center;
+    list-style-position: inside;
+}
+
+#header {
+    height:200px;
+    text-size-adjust: 300px;
+}
+
+
+#body {
+    text-align: center;
+   margin: 75px;
+}
+
+#footer {
+    height:100px;
+    width:100%;
+    text-align: center;
+    float: none;
+}
+
+.col-md-3 {
+    background-color: transparent;
+    color:white;
+  text-decoration: none;
+}
+
+
+.photo {
+    border-style:solid;
+    color: white;
+   text-align: center;
+}
+
+#form {
+color:white;
+border-style: solid;
+width: 250px;
+text-align: center;
+display:block;
+}
